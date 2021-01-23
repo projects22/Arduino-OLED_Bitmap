@@ -7,3 +7,5 @@ Download LCD Assistant app from http://en.radzio.dxp.pl/bitmap_converter/
 
 Set it to Byte Orientation - Vertical, Pixels/byte - 8. Save file as text file and copy the bitmap array to the code page.
 
+For more details: http://www.moty22.co.uk/egg_timer.php
+
